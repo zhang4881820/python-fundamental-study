@@ -2,6 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a537d938-11c2-4186-89e4-c4b383c3ccca" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/ceshi.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_visualization/study01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_basic/Condition_loop.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_basic/List_tuple.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_basic/Math_basic.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_basic/explain.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/pythonStudy.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/pythonStudy.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -39,16 +47,17 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/StringAndText" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="G:\pythonStudy\StringAndText" />
-      <recent name="G:\pythonStudy" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="G:\pythonStudy\dataStructuresAndAlgorithms" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="H:\python\python-fundamental-study" />
+      <recent name="G:\pythonStudy\StringAndText" />
+      <recent name="G:\pythonStudy" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -63,8 +72,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.study-12">
-    <configuration name="study-08" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.Condition_loop">
+    <configuration name="Condition_loop" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="pythonStudy" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -72,12 +81,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/StringAndText" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_basic" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/StringAndText/study-08.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_basic/Condition_loop.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -86,7 +95,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="study-09" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="List_tuple" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="pythonStudy" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -94,12 +103,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/StringAndText" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_basic" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/StringAndText/study-09.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_basic/List_tuple.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -108,7 +117,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="study-10" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Math_basic" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="pythonStudy" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -116,12 +125,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/StringAndText" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_basic" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/StringAndText/study-10.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_basic/Math_basic.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -130,7 +139,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="study-11" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="study-05" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="pythonStudy" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -138,12 +147,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/StringAndText" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/dataStructuresAndAlgorithms" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/StringAndText/study-11.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dataStructuresAndAlgorithms/study-05.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -152,7 +161,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="study-12" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="study01" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="pythonStudy" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -160,12 +169,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/StringAndText" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/data_visualization" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/StringAndText/study-12.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/data_visualization/study01.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -176,11 +185,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.study-12" />
-        <item itemvalue="Python.study-11" />
-        <item itemvalue="Python.study-10" />
-        <item itemvalue="Python.study-09" />
-        <item itemvalue="Python.study-08" />
+        <item itemvalue="Python.Condition_loop" />
+        <item itemvalue="Python.List_tuple" />
+        <item itemvalue="Python.Math_basic" />
+        <item itemvalue="Python.study01" />
+        <item itemvalue="Python.study-05" />
       </list>
     </recent_temporary>
   </component>
@@ -200,6 +209,8 @@
       <workItem from="1572317402139" duration="13092000" />
       <workItem from="1576803474354" duration="193000" />
       <workItem from="1576803681448" duration="124000" />
+      <workItem from="1588901707427" duration="152000" />
+      <workItem from="1588902862521" duration="15268000" />
     </task>
     <servers />
   </component>
@@ -221,6 +232,13 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/data_visualization/study01.py</url>
+          <line>12</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
       <default-breakpoints>
         <breakpoint type="python-exception">
           <properties notifyOnTerminate="true" exception="BaseException">
@@ -236,14 +254,19 @@
     <SUITE FILE_PATH="coverage/pythonStudy$study_03.coverage" NAME="study-03 Coverage Results" MODIFIED="1572249889404" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/StringAndText" />
     <SUITE FILE_PATH="coverage/pythonStudy$study_10.coverage" NAME="study-10 Coverage Results" MODIFIED="1572332185959" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/StringAndText" />
     <SUITE FILE_PATH="coverage/pythonStudy$study_12.coverage" NAME="study-12 Coverage Results" MODIFIED="1576803505743" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/StringAndText" />
+    <SUITE FILE_PATH="coverage/python_fundamental_study$study01.coverage" NAME="study01 Coverage Results" MODIFIED="1588910974251" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data_visualization" />
     <SUITE FILE_PATH="coverage/pythonStudy$study_13.coverage" NAME="study-13 Coverage Results" MODIFIED="1572230180182" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pythonStudy$study_07.coverage" NAME="study-07 Coverage Results" MODIFIED="1572255342531" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/StringAndText" />
     <SUITE FILE_PATH="coverage/pythonStudy$study_11.coverage" NAME="study-11 Coverage Results" MODIFIED="1572335918144" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/StringAndText" />
     <SUITE FILE_PATH="coverage/pythonStudy$study_14.coverage" NAME="study-14 Coverage Results" MODIFIED="1572232560834" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python_fundamental_study$Condition_loop.coverage" NAME="Condition_loop Coverage Results" MODIFIED="1588931682907" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_basic" />
     <SUITE FILE_PATH="coverage/pythonStudy$study_01.coverage" NAME="study-01 Coverage Results" MODIFIED="1572247470177" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/StringAndText" />
     <SUITE FILE_PATH="coverage/pythonStudy$study_04.coverage" NAME="study-04 Coverage Results" MODIFIED="1572251999550" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/StringAndText" />
     <SUITE FILE_PATH="coverage/pythonStudy$study_08.coverage" NAME="study-08 Coverage Results" MODIFIED="1572257208450" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/StringAndText" />
     <SUITE FILE_PATH="coverage/pythonStudy$study_05.coverage" NAME="study-05 Coverage Results" MODIFIED="1572253168038" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/StringAndText" />
+    <SUITE FILE_PATH="coverage/python_fundamental_study$Math_basic.coverage" NAME="Math_basic Coverage Results" MODIFIED="1588925019466" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_basic" />
     <SUITE FILE_PATH="coverage/pythonStudy$study_02.coverage" NAME="study-02 Coverage Results" MODIFIED="1572248842340" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/StringAndText" />
+    <SUITE FILE_PATH="coverage/python_fundamental_study$study_05.coverage" NAME="study-05 Coverage Results" MODIFIED="1588903105246" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dataStructuresAndAlgorithms" />
+    <SUITE FILE_PATH="coverage/python_fundamental_study$List_tuple.coverage" NAME="List_tuple Coverage Results" MODIFIED="1588926118092" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_basic" />
   </component>
 </project>

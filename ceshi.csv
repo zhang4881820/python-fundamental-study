@@ -1,0 +1,11 @@
+字段	数据类型	目的表	表字段	说明
+客户名称	nvarchar	C_Customer	C_Customer_name	
+分公司	nvarchar	C_Customer_AllInfo	C_Customer_RegionCode	所属分公司
+客户行业	int	C_Customer	C_Customer_HangYe	客户所属行业
+一级行业	int	C_Customer	C_Customer_industryCode	
+二级行业	int	C_Customer_AllInfo	C_Customer_industrychildCode	
+开拓部长	nvarchar	C_Customer	C_Customer_Pionerchief	
+开拓组长	nvarchar	C_Customer	C_Customer_Developmentconsultant	
+省	int	C_Customer	C_Customer_province	
+市	int	C_Customer	C_Customer_city	
+区	int	C_Customer	C_Customer_region	
